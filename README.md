@@ -4,4 +4,5 @@
 
 Tic-Tac-Toe game was created using Jupyter Notebook. 
 
-Script will still run in python but it will need multiple new lines ("\n") to "update" board after each turn.
+Script will still run in python but it will need multiple new lines ("\n") to "update" board after each turn
+since IPython.display is only run in Jupyter Notebook. 
