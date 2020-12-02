@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 
-##Note: 
+#Note: 
 
 Tic-Tac-Toe game was created using Jupyter Notebook. 
 
